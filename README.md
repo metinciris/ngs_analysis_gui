@@ -4,12 +4,12 @@ This project provides a user-friendly graphical interface to analyze contaminati
 
 ## Features
 
-- **File Selection**: Select multiple CSV files using a graphical file dialog.
+- **File Selection**: Select multiple CSV files using a graphical file dialog. (panel --> export --> Select All --> Export as text csv).
 - **Automated Analysis**:
   - Calculates shared and unique mutations between pairs of files.
   - Determines contamination percentages based on allele fraction averages.
   - Identifies primary sources of contamination.
-- **Results Export**: Save the analysis results as a CSV file (NGS panel --> export --> Select All --> Export as text csv).
+- **Results Export**: Save the analysis results as a CSV file 
 - **Informational Note**: Results include a note stating they may represent shared sequencing errors.
 
 ## Installation
