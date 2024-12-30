@@ -4,7 +4,7 @@ This project provides a user-friendly graphical interface to analyze contaminati
 
 ## Features
 
-- **File Selection**: Select multiple CSV files using a graphical file dialog. (panel --> export --> Select All --> Export as text csv).
+- **File Selection**: Select multiple CSV files using a graphical file dialog. (Patient panel --> export --> Select All --> Export as text csv).
 - **Automated Analysis**:
   - Calculates shared and unique mutations between pairs of files.
   - Determines contamination percentages based on allele fraction averages.
